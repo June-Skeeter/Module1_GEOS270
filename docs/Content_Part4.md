@@ -81,7 +81,8 @@ The lands that comprise Canada have been inhabited for thousands of years and ha
 
 ### QC6
 
-The numbered treaties were negotiated in a fair and balanced way and the thanks to the systematic collection and dissemination of geographic information, all parties had access to the same information when conducting negotiations.  
+The numbered treaties were negotiated in a fair and balanced way and the thanks to the systematic collection and dissemination of geographic information, all parties had access to the same information when conducting negotiations. [T/F]
+
 
 
 ### QC7

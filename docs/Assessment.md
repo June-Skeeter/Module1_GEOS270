@@ -70,7 +70,7 @@ Geographia is the oldest known example of an  ______ and can be considered the f
 The ______ projection revolutionized navigation because mariners could use it to navigate anywhere in the world by following a constant ______.  However, it is problematic for modern day use because it exaggerates the size of landmasses farther from the equator.  
 
 [**QC6**](Content_Part4.md#qc6) 
-The numbered treaties were negotiated in a fair and balanced way and the thanks to the systematic collection and dissemination of geographic information, all parties had access to the same information when conducting negotiations.  
+The numbered treaties were negotiated in a fair and balanced way and the thanks to the systematic collection and dissemination of geographic information, all parties had access to the same information when conducting negotiations. [T/F]
 
 
 [**QC7**](Content_Part4.md#qc7) 
