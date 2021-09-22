@@ -115,7 +115,7 @@ Save the layout as a .pdf, name it *Kernel_Density.pdf* and upload it to canvas.
 
 ---
 
-## Content Questions (20 pts)
+## Content Questions (25 pts)
 
 [**WC1**](Content.md#wc1)
 What is redlining and what are some of its long lasting impacts?
