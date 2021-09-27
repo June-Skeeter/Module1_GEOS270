@@ -62,7 +62,7 @@ A ______ is a naturally occurring magnet.  They were first used by the ______ ci
 
 **Lodestone** or **Magnetite**, **Olmec**
 
--Half Credit: ,*Olmec Civilization*
+- Half Credit: ,*Olmec Civilization*
 
 [**QC3**](Content_Part1.md#qc3)
 The compass as we know it today originated in China during the _____ Dynasty was first used for navigation during the ______ Dynasty.
@@ -74,14 +74,14 @@ Geographia is the oldest known example of an  ______ and can be considered the f
 
 **Atlas**, **GIS**, **index**
 
--Half Credit: *GIS*,*Atlas*,*glossary*
+- Half Credit: *GIS*,*Atlas*,*glossary*
 
 [**QC5**](Content_Part2.md#qc5) 
 The ______ projection revolutionized navigation because mariners could use it to navigate anywhere in the world by following a constant ______.  However, it is problematic for modern day use because it exaggerates the size of landmasses farther from the equator.  
 
 **Mercator**, **Bearing** or **Heading**
 
--Half Credit ,*line* or *path* or *direction*
+- Half Credit ,*line* or *path* or *direction*
 
 [**QC6**](Content_Part4.md#qc6) 
 The numbered treaties were negotiated in a fair and balanced way and the thanks to the systematic collection and dissemination of geographic information, all parties had access to the same information when conducting negotiations [T/**F**]
@@ -91,21 +91,21 @@ The ______ aimed to map lands in Canada based on their ______ for agriculture, f
 
 **Canada Land Inventory** or CLI, **suitability** or **value**, **computer** or **Digital**, **GIS** or **spatial analysis**
 
--Half Credit , *quality*, , *cartography*
+- Half Credit , *quality*, , *cartography*
 
 [**QC8**](Content_Part5.md#qc8) 
 ______ GIS software has closed source code and often requires users to buy expensive licenses.  
 
 **Proprietary**
 
--Half Credit *ESRI* or *Arc Pro*
+- Half Credit *ESRI* or *Arc Pro*
 
 [**QC9**](Content_Part5.md#qc9) 
 ______ GIS is free to use and download, and the source code is open to the public for inspection, editing, and updating.  
 
 **Open Source**
 
--Half Credit *Q*
+- Half Credit *Q*
 
 
 ---
@@ -121,36 +121,36 @@ All written answers should be numbered and record in one document, saved as a .p
 [**WA1**](Application_Part2.md#wa1) (4pts)
 In your own words, what does georeferencing do?
 
-- Georeferencing is how you take an photo or scanned map and reference it to the earth.
+- **Georeferencing is how you take an photo or scanned map and reference it to the earth.**
 
 [**WA2**](Application_Part3.md#wa2) (4pts)
 What do the mean center and directional distribution tell us about a set of points?
 
-- Mean center tells us the "average" location all points in a set.
-- Directional distribution tells us about the spread of the data.
+- **Mean center tells us the "average" location all points in a set.**
+- **Directional distribution tells us about the spread of the data.**
 
 [**WA3**](Application_Part3.md#wa3) (8pt)
 Why might Kernel Density might be more useful for identifying the source of a source(s) of a cholera outbreak outbreak than the mean center and directional distribution?
 
-- It can show more nuance and fit a wider range of situations.
+- **It can show more nuance and fit a wider range of situations.**
 
 [**WA4**](Application_Part3.md#wa4)  (4pt)
 What are the effects of changing the "Output cell size" and "Area unit"?
 
-- Cell size - increasing cell size makes the cells bigger and gives a higher density
-- Area unit - changes the units the density is presented in (km - bigger number, m - smaller number)
+- **Cell size - increasing cell size makes the cells bigger and gives a higher density**
+- **Area unit - changes the units the density is presented in (km - bigger number, m - smaller number)**
 
 ### File Submissions (30 pts)
 
 [**FA1**](Application_Part1.md#fa1) (10pts)
 Save the layout as a .pdf, name it *Central_Wellington_Layout.pdf* and upload it to canvas.
 
-- Everyone's first map exceeds our expectations! (as long as they add name and date, otherwise 50%)
+- **Everyone's first map exceeds our expectations! (as long as they add name and date, otherwise 50%)**
 
 [**FA2**](Application_Part4.md#fa2) (20pts)
 Save the layout as a .pdf, name it *Kernel_Density.pdf* and upload it to canvas.
 
-- If everything we asked for is on there, it exceeds our expectations.  If there are small errors (eg. legend and map item color doesn't match because a layer is selected) 75%.  Missing legend would be 50%, kernel density would be 25%.
+- **If everything we asked for is on there, it exceeds our expectations.  If there are small errors (eg. legend and map item color doesn't match because a layer is selected) 75%.  Missing legend would be 50%, kernel density would be 25%.**
 
 ---
 
@@ -159,14 +159,14 @@ Save the layout as a .pdf, name it *Kernel_Density.pdf* and upload it to canvas.
 [**WC1**](Content.md#wc1) (15pts)
 What is redlining and what are some of its long lasting impacts?
 
-- The systematic denial of services to residents of an area typically based on race or other status.
-- long lasting impacts: inter-generational wealth disparities, education disparities, health outcome disparities, etc.
+- **The systematic denial of services to residents of an area typically based on race or other status.**
+- **long lasting impacts: inter-generational wealth disparities, education disparities, health outcome disparities, etc.**
 
 [**WC2**](Content_Part3.md#wc2) (10pts)
 In your own words, what is belief perseverance?  Give your own example of belief perseverance.  This can be a historical example or one from your own personal experience.
 
-- Belief perseverance is clinging to a belief despite evidence showing it is false.
-- Example can be anything really, just needs to be a genuine reflection 
+- **Belief perseverance is clinging to a belief despite evidence showing it is false.**
+- **Example can be anything really, just needs to be a genuine reflection.**
 
 ---
 
