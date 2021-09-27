@@ -1,3 +1,9 @@
+---
+layout: default
+title: Assesment Key
+# parent: Module 1
+nav_order: 5
+---
 
 # Module Quiz (25 pts)
 
