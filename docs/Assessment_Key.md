@@ -89,7 +89,7 @@ The numbered treaties were negotiated in a fair and balanced way and the thanks 
 [**QC7**](Content_Part4.md#qc7) 
 The ______ aimed to map lands in Canada based on their ______ for agriculture, forestry, recreation and wildlife.  It was the first ______ based geographic database and led to significant advancements in ______.
 
-**Canada Land Inventory** or CLI, **suitability** or **value**, **computer** or **Digital**, **GIS** or **spatial analysis**
+**Canada Land Inventory** or **CLI**, **suitability** or **value**, **computer** or **Digital**, **GIS** or **spatial analysis**
 
 - Half Credit , *quality*, , *cartography*
 
