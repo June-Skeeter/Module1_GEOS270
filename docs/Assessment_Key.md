@@ -5,6 +5,7 @@ title: Assesment Key
 nav_order: 5
 ---
 
+<!-- 
 # Module Quiz (25 pts)
 
 All quiz answers are multiple choice, numeric input, fill in the blank, etc. type questions.  They can be submitted via the Module 1 Quiz that can be found on the Canvas page.  You will have unlimited attempts to take the quiz.
@@ -181,3 +182,4 @@ All written answers and file submissions will be scored using this generic rubri
 | 50% |Below Expectations  |
 | 75% |Met Expectations    |
 | 100%|Exceeds Expectations|
+ -->
