@@ -10,6 +10,8 @@ heading_anchors: true
 aux_links:
   "Course Syllabus":
     - "https://june-skeeter.github.io/GEOS270W1/"
+  "View on github":
+    - "https://github.com/June-Skeeter/Module1_GEOS270"
 
 # license information for workshop content
 license_name: "Creative Commons Attribution 4.0 International License"
