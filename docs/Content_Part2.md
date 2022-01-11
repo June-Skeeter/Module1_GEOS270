@@ -1,48 +1,46 @@
 ---
 layout: default
-title: Exploration, Expansion, Colonialism, and Cartography
-parent: Content
-grand_parent: Module 1
+title: Coordinate Reference Systems
+parent: Lecture Content
+has_children: true
 nav_order: 2
 ---
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
+
+# Defining a Coordinate Reference Systems
+
+A Coordinate Reference System (CRS) is *a coordinate-based system used to locate geographical entities*.  A CRS can be applied locally, regionally, or globally.  A Cartesian grid (think graph paper) is a simple 2D coordinate reference system for referencing locations on the surface of a flat plane.  A spherical coordinate system (think latitude/longitude) is a more complex 2D coordinate system for referencing locations on the surface of a sphere.  
+
+<figure>
+  <img src="content/images/cartSpherical.jpg"
+  alt="cartesianSpherical">
+  <figcaption><a href="https://postgis.net/workshops/postgis-intro/geography.html">Cartesian versus spherical, or geographic, coordinates.</a> <a href="https://postgis.net/">PostGIS.</a> </figcaption>
+</figure>
+
 ---
 
-# Exploration, Expansion, Colonialism, and Cartography
+# Why all world maps are wrong
 
-As societies expanded, nation-states formed and empires arose.  As those empires expanded their borders, they expanded their maps and conceptualization of the known world.  Colonial expansion and the history of cartography are deeply intertwined.  Map projections were a key advancement that revolutionized maritime navigation.
+This video gives a quick overview of some of the issues associated with making two dimensional maps of our three dimensional world.
 
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="content/Expansion.html" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="content/Expansion.html" target="_blank">View slides in new tab</a>
-
---- 
-# Assessment Questions
-
-### QC4
-
-Geographia is the oldest known example of an  ______ and can be considered the first ______ because it stored geographic information in a systematic way and even had an ______ of place names.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kIID5FDi2JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### QC5
+<!-- 
+# What **do** you need to know about projections?
 
-The ______ projection revolutionized navigation because mariners could use it to navigate anywhere in the world by following a constant ______.  However, it is problematic for modern day use because it exaggerates the size of landmasses farther from the equator.  
+**1)** Which types of projections are better sutied for certain circumastances.
+
+**2)** The choice of projecton can have a significant impact on your analysis.
+
+**3)** The choice of projecton can have a significant impact on how your maps are percieved.
+
+**4)** What map scale means and how it relates to prjection choice.
+
+# What **don't** you need to know about projections?
+
+* Map projections are complex mathematical transformations.  You don't need to understand the intricacies of how they work.
+
+* You also don't need to know what specific projection is the correct on for every situation.  You can ask someone or google it.  
+ -->
+
