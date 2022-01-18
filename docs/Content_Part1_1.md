@@ -18,7 +18,7 @@ nav_order: 1
 
 # Evolution of Cartography
 
-The earliest maps presented diverse and abstract representations of reality.  They used very different medium than we do today today, and are sometimes quite difficult to see as maps today.  
+The earliest maps presented diverse and abstract representations of reality.  They used very different medium than we do today today, and are sometimes quite difficult to see as maps today.  You can download a .pdf of the slides [here]()
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -35,11 +35,12 @@ The earliest maps presented diverse and abstract representations of reality.  Th
 </div>
 <a href="content/EarlyHistoy.html" target="_blank">View slides in new tab</a>
 
+<!-- 
 ---
 
 # Systematic Data Collection
 
-As agricultural societies coalesced and grew methods for the systematic collection of information were developed and the first surveys were conducted.  Methods were needed to conduct agricultural surveys, construct buildings, and create plan settlements.  Objects needed to be drawn to scale for accurate representations.
+
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -56,3 +57,4 @@ As agricultural societies coalesced and grew methods for the systematic collecti
 </div>
 <a href="content/Surveys.html" target="_blank">View slides in new tab</a>
 
+ -->
