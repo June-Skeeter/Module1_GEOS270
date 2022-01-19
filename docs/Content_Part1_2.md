@@ -6,15 +6,6 @@ grand_parent: Lecture Content
 nav_order: 2
 ---
 
-<!-- <details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
---- -->
 
 # Exploration, Expansion, Colonialism, and Cartography
 
@@ -35,3 +26,4 @@ As societies expanded, nation-states formed and empires arose.  As those empires
 </div>
 <a href="content/Expansion.html" target="_blank">View slides in new tab</a>
 
+Download the slides as a .pdf [here](https://raw.githubusercontent.com/June-Skeeter/Module1_GEOS270/main/docs/content/Expansion.pdf)
