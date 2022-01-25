@@ -60,6 +60,18 @@
     <div class="slides">
 
        <section>
+        <h2>Flattening the Blue Marble</h2>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>This is what earth looks like when you take a picture of it from 29,000 kilometers away.  This is the original <a href="https://en.wikipedia.org/wiki/The_Blue_Marble"> Blue Marble</a> photo, taken from Apollo 17.</p>
+           </div>
+          <div class="col" style="text-align: Right;">
+          <p><img src="images/blue_marble_og.jpg" width="600"></p>
+           </div>
+      </section>
+
+
+       <section>
         <h2>Earth</h2>
         <div class="container">
           <div class="col" style="text-align: Left;">
@@ -74,7 +86,7 @@
       </section>
 
        <section>
-        <h3>Ignore Topography!?</h3>
+        <h2>Ignore Topography!?</h2>
         <div class="container">
           <div class="col" style="text-align: Left;">
           <!-- <p><img src="images/geoid_2.png" width="600"></p> -->
@@ -85,21 +97,19 @@
 
 
        <section>
-        <h3>Digital Elevation Model</h3>
+        <h2>Digital Elevation Model</h2>
         <div class="container">
           <div class="col">
           <p><img src="images/DEM.png" width="1000"></p>
-          <!-- <p>We can account for it separately if necessary using digital elevation models or contour lines.</p> -->
            </div>
       </section>
 
       
        <section>
-        <h3>Contour Lines</h3>
+        <h2>Contour Lines</h2>
         <div class="container">
           <div class="col">
           <p><img src="images/contour lines.png" width="1000"></p>
-          <!-- <p>We can account for it separately if necessary using digital elevation models or contour lines.</p> -->
            </div>
       </section>
 
@@ -145,7 +155,6 @@
       </section>
 
        <section>
-        <!-- <h3>Types of Datums</h3> -->
         <div class="container">
           <div class="col" style="text-align: Center;">
           <p><h3>Local Datum</h3> Fits geoid very well in a particular region</p>
@@ -159,29 +168,41 @@
 
 
        <section>
-        <!-- <h3>Types of Datums</h3> -->
         <div class="container">
           <div class="col" style="text-align: Center;">
-          <p><h3>Local Datum</h3> Fits geoid very well in a particular region</p>
-          <p><img src="images/nad_geoid.png" width="400"></p>
-           </div>
-          <div class="col" style="text-align: Center;">
-          <p><h3>Global Datum</h3> Fits the geoid fairly well everywhere</p>
-          <p><img src="images/wgs_geoid.jpg" width="400"></p>
+          <p><h2>Local Datum</h2> Fits geoid very well in a particular region</p>
+          <p><img src="images/nad_geoid.png" width="550"></p>
            </div>
       </section>
 
+
        <section>
-        <h3>Only Minor Differences</h3>
+        <div class="container">
+          <div class="col" style="text-align: Center;">
+          <p><h2>Global Datum</h2> Fits the geoid fairly well everywhere</p>
+          <p><img src="images/wgs_geoid.jpg" width="700"></p>
+           </div>
+      </section>
+
+
+       <section>
+        <h2>Only Minor Differences</h2>
+          <div class="col" style="text-align: center;">
+          <p>For some cases, either datum is suitable.</p>
           <img src="images/nad_v_wgs.png" width="800">
-          <div class="col" style="text-align: Left;">
-          <p>For some cases, either datum is suitable.  But strictly speaking, a local datum will provide a more accurate representation if you are dealing with a small area like a city or province.  For global scale analysis, you always want a global datum. </p>
           </div>
       </section>
 
+      <section>
+        <h2>Only Minor Differences</h2>
+          <div class="col" style="text-align: center;">
+          <p>A local datum is better for small areas like a city.  For global maps, you <b>always</b> need a global datum. </p>
+          <img src="images/nad_v_wgs.png" width="700">
+          </div>
+      </section>
 
        <section>
-        <h3>Geographic Coordinate System (GCS)</h3>
+        <h2>Geographic Coordinate System (GCS)</h2>
         <div class="container">
           <div class="col" style="text-align: Left;">
           <p>Spherical Coordinate System for identifying locations on the spheroid.</p>
@@ -196,10 +217,16 @@
 
 
        <section>
-        <h3>Latitude/Longitude</h3>
+        <h2>Geographic Coordinate System (GCS)</h2>
         <div class="container">
           <div class="col" style="text-align: Left;">
-          <p>Degrees of latitude and longitude are defined by their angle from the center of the spheroid.</p>
+          <p><b>Latitude/Longitude</b></p>
+          <ul ><!-- style="padding-left: 10px"> -->
+            <li>Fixed to the surface of spheroid</li>
+            <li>Angular distance from equator and prime meridian</li>
+            <li>Location on a 3D object with just 2 numbers</li>
+          </ul>
+          <!-- <p>Degrees of latitude and longitude are </p> -->
            </div>
           <div class="col" style="text-align: Center;">
           <p><img src="images/latitude-longitude-globe-ESRI.gif" width="400"></p>
@@ -208,51 +235,111 @@
       </section>
 
        <section>
-        <h3>Latitude</h3>
+        <h2>Latitude</h2>
           <img src="images/grat.gif" width="800">
-          <div class="col" style="text-align: Left;">
-          <p>Distance form Equator: -90 to +90 degrees</p>
+          <div class="col" style="text-align: center;">
+          <p>Distance in degrees form Equator: -90&deg;(South) to +90&deg;(North)</p>
           </div>
       </section>
 
        <section>
-        <h3>Longitude</h3>
+        <h2>Longitude</h2>
           <img src="images/grat.gif" width="800">
-          <div class="col" style="text-align: Left;">
-          <p>Distance form Prime Meridian: -180 to +180 degrees</p>
+          <div class="col" style="text-align: center;">
+          <p>Distance in degrees Prime Meridian: -180&deg (West); to +180&deg; (East)</p>
           </div>
       </section>
 
+
        <section>
-        <h3>Longitude</h3>
+        <h2>Latitude/Longitude</h2>
+
+          <div class="col" style="text-align: left;">
+          <p><b>Decimal Degrees</b></p>
+          <ul>
+            <li>Vancouver BC: 49.261111, -123.113889</li>
+            <li>Sydney NSW: -33.865, 151.209444</li>
+          </ul>
+
+          <p><b>Degrees Minutes Seconds</b></p>
+          <ul>
+            <li>Vancouver BC: 49&deg;15′40″N 123&deg;06′50″W</li>
+            <li>Sydney NSW: 33&deg;51′54″S 151&deg;12′34″E</li>
+          </ul>
+          </div>
+      </section>
+
+
+       <section>
+        <h2>An Important Caveat!</h2>
         <div class="container">
           <div class="col" style="text-align: Left;">
-          <p>Distance covered by one degree of longitude varies based on latitude (distance from equator).</p>
+          <p>Meridians converge!</p>
+          <ul>
+            <li>Distance between degrees of longitude decreases with increasing latitude</li>
+          </ul>
+
            </div>
           <div class="col" style="text-align: Center;">
-          <p><img src="images/long_boi.gif" width="400"></p>
+          <p><img src="images/long_boi.gif" width="500"></p>
            </div>
          </div>
       </section>
 
+
        <section>
-        <h3>Projecting a GCS</h3>
+        <h2>Making a Flat Map</h2>
         <div class="container">
-          <div class="col" style="text-align: Left;">
+          <div class="col" style="text-align: center;"><!-- 
           <p>Once we have a GCS, we can project it onto a 2D plane.</p>
            </div>
+          <div class="col" style="text-align: Center;"> -->
+          <p><img src="images/proj_1.jpg" width="600"></p>
+           </div>
+         </div>
+      </section>
+
+       <section>
+        <h2>Making a Flat Map</h2>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>Displaying Lat/Lon in 2D doesn't work well</p>
+          <ul>
+            <li>Causes things to look "scrunched"</li>
+          </ul>
+
+           </div>
           <div class="col" style="text-align: Center;">
-          <p><img src="images/proj_1.jpg" width="400"></p>
+          <p><img src="images/no_project.png" width="500"></p>
            </div>
          </div>
       </section>
 
 
        <section>
-        <h3>Projected Coordinate Systems</h3>
+        <h2>Making a Flat Map</h2>
         <div class="container">
           <div class="col" style="text-align: Left;">
-          <p>A projection is just a flattened GCS.  Imagine sending rays of light through the ellipsoid onto a flat surface, that resulting image is a projection.</p>
+          <p>We have to apply a projection</p>
+          <ul>
+            <li>Converts to linear units</li>
+            <li>Allows distance/area calculations</li>
+            <li>Makes things look better</li>
+          </ul>
+
+           </div>
+          <div class="col" style="text-align: Center;">
+          <p><img src="images/project.png" width="500"></p>
+           </div>
+         </div>
+      </section>
+
+
+       <section>
+        <h2>Projected Coordinate Systems</h2>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>A map projection is a flattened GCS.  Imagine sending rays of light through the ellipsoid onto a flat surface, the resulting image is a projection.</p>
            </div>
           <div class="col" style="text-align: Center;">
           <p><img src="images/proj_2.png" width="400"></p>
@@ -262,7 +349,7 @@
 
 
        <section>
-        <h3>Steps of Abstraction</h3>
+        <h2>Steps of Abstraction</h2>
           <img src="images/abstraction.png" width="1000">
       </section>
 
