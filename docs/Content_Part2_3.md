@@ -10,7 +10,7 @@ nav_order: 3
 
 # Choosing a Projection
 
-Here is a simple summary to help you think though which class of map projection you might want to use.  **Bold** are the most common classes we use.
+Here is a simple summary to help you think though which class of map projection you might want to use.  Categories in **bold** are the most common classes we use.
 
 | Projection Category | Properties | Common Uses |
 | :------------- | :-------------: | -------------: |
