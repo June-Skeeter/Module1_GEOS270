@@ -14,7 +14,8 @@ nav_order: 2
 
 This map [projection tutorial](https://ubc-library-rc.github.io/map-projections/content/exercises.html) was created by Maya Daurio at the UBC Research Commons.  The tutorial has four exercises.  Work through each exercise to get a quick overview of how to work with coordiante systems in ArcGIS Pro.
 
-Use the **Download** button on the Exercise to dowwload the data and follow the instructions to extract the data.  Then work through each of the tutorials.
+### Note
+The download link in the exercise is currently broken.  You can download the data [here](https://drive.google.com/file/d/1FKTbqz30RWPxYR9De5zk54yx60mZCU_C/view?usp=sharing), then follow the instructions to extract the data.  Then work through each of the tutorials.
 
 **1)** What Coordinate System is my Data in?
 - Learn how to determine the coordinate system of a layer
