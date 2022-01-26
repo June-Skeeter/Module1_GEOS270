@@ -7,17 +7,6 @@ grand_parent: Lecture Content
 nav_order: 2
 ---
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
----
-
 # Projected Coordinate Systems
 
 There are many differnt types of Map Projections.  They are classified by how the are projected onto a surface and what kind of deformatoins they impose.
@@ -37,6 +26,8 @@ There are many differnt types of Map Projections.  They are classified by how th
 </div>
 <a href="content/Projection.html" target="_blank">View slides in new tab</a>
 
+
+Download the slides as a .pdf [here](https://raw.githubusercontent.com/June-Skeeter/Module1_GEOS270/main/docs/content/Projection.pdf)
 
 ## Choosing a Projection
 

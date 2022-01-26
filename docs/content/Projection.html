@@ -63,7 +63,7 @@
         <h2>Projected Coordinate Systems</h2>
         <div class="container">
           <div class="col" style="text-align: Left;">
-          <p>A projection is just a flattened GCS.  Imagine sending rays of light through the ellipsoid onto a flat surface, that resulting image is a projection.</p>
+          <p>A map projection is a flattened GCS.  Imagine sending rays of light through the ellipsoid onto a flat surface, the resulting image is a projection.</p>
            </div>
           <div class="col" style="text-align: Center;">
           <p><img src="images/proj_2.png" width="400"></p>
@@ -76,9 +76,9 @@
         <div class="container">
           <div class="col" style="text-align: Left;">
             <p>A GCS is projected onto a surface that can be flattened.</p>
-            <p class="fragment fade-up">Planar: Project onto a 2D flat plane</p>
-            <p class="fragment fade-up">Conic: Project onto a 2D cone</p>
-            <p class="fragment fade-up">Cylindrical: Project onto a 2D circular tube</p>
+            <p class="fragment fade-up">Planar: A 2D flat plane</p>
+            <p class="fragment fade-up">Conic: A 2D cone</p>
+            <p class="fragment fade-up">Cylindrical: A 2D cylinder</p>
            </div>
           <div class="col" style="text-align: Center;">
           <p><img src="images/Proj_surface.png" width="400"></p>
@@ -93,12 +93,26 @@
         <div class="container">
           <div class="col" style="text-align: Center;">
           <p><img src="images/planar.jpg" width="800"></p>
-
-          <!-- <p>In most applications, topography isn't explicitly needed.</p> -->
           <p>Simplest option but limited applicability/scope.  Usually only used for polar regions.</p>
            </div>
       </section>
 
+
+       <section>
+        <h3>Planar/Azimuthal</h3>
+        <div class="container">
+          <div class="col" style="text-align: Center;">
+          <p><img src="images/02-Azimuthal-map.png" width="550"></p>
+           </div>
+      </section>
+
+       <section>
+        <h3>Planar/Azimuthal</h3>
+        <div class="container">
+          <div class="col" style="text-align: Center;">
+          <p><img src="images/Polar.png" width="550"></p>
+           </div>
+      </section>
 
        <section>
         <h3>Conic</h3>
@@ -109,6 +123,26 @@
            </div>
       </section>
 
+
+       <section>
+        <h3>Conic</h3>
+        <div class="container">
+          <div class="col" style="text-align: Center;">
+          <p><img src="images/02-BC-Albers-map.png" width="600"></p>
+           </div>
+      </section>
+
+
+       <section>
+        <h3>Conic</h3>
+        <div class="container">
+          <div class="col" style="text-align: Center;">
+          <p><img src="images/first-nations-bc.jpg" width="500"></p>
+           </div>
+      </section>
+
+
+
        <section>
         <h3>Cylindrical</h3>
         <div class="container">
@@ -117,6 +151,34 @@
           <p>Works for the full Earth (Normal).  Or applied to small slices (Transverse)</p>
            </div>
       </section>
+
+
+       <section>
+        <h3>Cylindrical</h3>
+        <div class="container">
+          <div class="col" style="text-align: Center;">
+          <p><img src="images/02-Mercator-map.png" width="600"></p>
+           </div>
+      </section>
+
+
+       <section>
+        <h3>Cylindrical</h3>
+        <div class="container">
+          <div class="col" style="text-align: Center;">
+          <p><img src="images/02-Sinusoidal-map.png" width="600"></p>
+           </div>
+      </section>
+
+
+       <section>
+        <h3>Cylindrical</h3>
+        <div class="container">
+          <div class="col" style="text-align: Center;">
+          <p><img src="images/DeltaMap.png" width="380"></p>
+           </div>
+      </section>
+
 
 
        <section>
@@ -230,17 +292,17 @@
        <section>
         <h3>Shearing</h3>
           <img src="images/Sinusoidal.jpg" width="800">
-          <p>Shapes/angles contorted without changes to area.</p>
+          <p>Shapes/angles contorted.</p>
       </section>
 
       <section>
         <h3>Compression</h3>
         <div class="container">
-          <div class="col" style="text-align: Left;">
-          <p>Changes to area.</p>
-           </div>
           <div class="col" style="text-align: center;">
-          <img src="images/compression.jpg" width="500">
+           <!-- </div>
+          <div class="col" style="text-align: center;">
+ -->          <img src="images/compression.jpg" width="400">
+          <p>Changes to area.</p>
            </div>
          </div>
       </section>
@@ -256,7 +318,10 @@
 
        <section>
         <h2>What projection is right for my map?</h2>
-          <p>There isn't a "correct" answer here, but there are definitely wrong answers.  You can typically get similar results with a handful of different projections for different applications.</p>
+
+          <div class="col" style="text-align: left;">
+          <p>There isn't a "correct" answer here, but there are definitely wrong answers.  You can typically get similar results with a handful of different projections, depending on your application.</p>
+        </div>
       </section>
 
       <section>
@@ -264,14 +329,18 @@
         <div class="container">
           <div class="col" style="text-align: Left;">
           <p>Where do the data come from?</p>
-          <p>-Some organizations or data warehouses use a standard projection, e.g. Stats Canada w/ Lambert Conformal Conic</p>
+          <ul>
+            <li>Some organizations use a standard projection</li>
+            <li>Stats Canada: Lambert Conformal Conic</li>
+          </ul>
            </div>
           <div class="col" style="text-align: Left;">
-          <p>What is the maps purpose?</p>
-          <p>-Conformal/compromise are aesthetically pleasing.</p>
-          <p>-Navigational maps, use Mercator, equidistant.</p>
-          <p>-Thematic maps (densities or distributions), use be equal area.</p>
-           </div>
+          <p>What is the map's purpose?</p>
+          <ul>
+            <li>Conformal/compromise are aesthetically pleasing.</li>
+            <li>Navigational maps, use conformal, equidistant, etc.</li>
+            <li>Thematic map (densities) use equal area.</li>
+          </ul>
          </div>
       </section>
 
@@ -280,7 +349,7 @@
         <h2>Scale</h2>
         <div class="container">
           <div class="col" style="text-align: Left;">
-          <p>The relationship between distance on a map and distance in the real world.</p>
+          <p>The relationship between distance on a map to distance in the real world.</p>
           <p>How much smaller than reality is the map?</p>
            </div>
           <div class="col" style="text-align: center;">
@@ -292,7 +361,6 @@
 
 
        <section>
-        <!-- <h3>Types of Datums</h3> -->
         <div class="container">
           <div class="col" style="text-align: Center;">
           <p><h3> Small Scale</h3> Zoomed out, large area, more generalization, less detail.</p>
@@ -389,32 +457,6 @@
       </section>
 
 
-   <!--    <section>
-        <h2>Columns &amp; Highlights</h2>
-        <div class="container">
-          <div class="col">
-            <p class="fragment">Fragements reveal themselves on user input. Or have other transitions.</p>
-            <p class="fragment grow">grow</p>
-            <p class="fragment shrink">shrink</p>
-          </div>
-          <div class="col">
-            <p class="fragment fade-out">fade-out</p>
-            <p class="fragment fade-up">fade-up</p>
-            <p class="fragment fade-down">fade-down</p>
-            <p class="fragment fade-left">fade-left</p>
-            <p class="fragment fade-right">fade-right</p>
-            <p class="fragment fade-in-then-out">fades in, then out when we move to the next step</p>
-          </div>
-          <div class="col">
-            <p class="fragment fade-in-then-semi-out">fades in, then obfuscate when we move to the next step</p>
-            <p class="fragment highlight-current-blue">blue only once</p>
-            <p class="fragment highlight-red">highlight-red</p>
-            <p class="fragment highlight-green">highlight-green</p>
-            <p class="fragment highlight-blue">highlight-blue</p>
-          </div>
-        </div>
-      </section>
- -->
 
     </div><!-- .slides -->
 
