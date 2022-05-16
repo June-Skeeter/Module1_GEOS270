@@ -24,6 +24,6 @@ This map [projection tutorial](https://ubc-library-rc.github.io/map-projections/
 - Change the coordinate system of your layer
 
 **4)** Calculating Population Density
-- See the material impact of 
+- See the material impact of different projections
 
 ---
