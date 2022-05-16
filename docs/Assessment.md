@@ -36,6 +36,7 @@ Maps and file uploads will be evaluated for completeness following the rubric be
 |60%  |Incomplete|Did not follow instructions, missing key elements|
 |100% |Complete  |Successfully made a map with required components |
 
+---
 
 # Lecture Content Questions 
 
@@ -54,35 +55,29 @@ In your own words, what is belief perseverance?  Give your own example of belief
 [**5)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Content_Part1_4.html)
 The ______ aimed to map lands in Canada based on their suitability for agriculture, forestry, recreation and wildlife.  It was the first digital ______.
 
-[**6)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Content_Part1_5.html)
-______ GIS software has closed source code and often requires users to buy expensive licenses.  
+[**6)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Content_Part2_1.html)
+The first step in creating an abstraction of the earth is to simplify it to a geoid.  The geoid is an abstract representation of the earth that smooths out ______ but preserves elevation differences due to ______ differentials.  Once we have a geiod, we can fit it to an oblate spheriod using either a local or global ______
 
 [**7)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Content_Part2_1.html)
-The first step in creating an abstraction of the earth is to simplify it to a geoid.  The geoid is an abstract representation of the earth that smooths out ______ but preserves elevation differences due to ______ differentials.
-
-[**8)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Content_Part2_1.html)
 If you are mapping a city like Vancouver, a ______ datum is best.  When mapping the whole world, you'll want to use a ______ datum.
 
-[**9)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Content_Part2_1.html)
-[Latitude/Longitude] is a measure of angular distance North/South of the equator and [Latitude/Longitude] is a measure of angular distance from the prime meridian.  
+[**8)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Content_Part2_1.html)
+______ is a measure of angular distance North/South of the equator and ______ is a measure of angular distance from the prime meridian.  Together, they form a ______, describing locations on the surface of a simplified model of the earth known as a ______ which represents the earth as an oblate spheroid.  
 
-[**10)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Content_Part2_1.html)
-Together, Latitude & Longitude form a ______, describing locations on the surface of a simplified model of the earth known as a ______ which represents the earth as an oblate spheroid.
-
-[**11)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Content_Part2_2.html)
+[**9)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Content_Part2_2.html)
 The Mercator projection should never be used to calculate:[Area/Distance/Bearing] . (select all that apply)
 
-[**12)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Content_Part2_2.html)
-What type of projection should you use to calculate population density?
 
-[**13)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Content_Part2_2.html)
+[**10)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Content_Part2_2.html)
 This type projection is great for displaying a small area like the city of Vancouver, but it should not be used to display all of Canada on one map.
 
-[**14)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Content_Part2_2.html)
-A map displaying UBC campus would be a [large/small] scale map.  A map displaying the whole world would be a [large/small] scale map.
+* Universal Transverse Mercator
+* Conic
+* Cylindrical
+* Planar
 
-[**15)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Content_Part2_2.html)
-Which map would show a larger area? 1:1,000 or 1:1,000,000
+[**11)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Content_Part2_2.html)
+A map displaying UBC campus would be a ______ scale map.  A map displaying the whole world would be a ______ scale map.
 
 
 # Lab Application Questions 
@@ -125,16 +120,6 @@ Metadata is ______ about ______.
 [**22)**](https://ubc-library-rc.github.io/map-projections/content/exercise2-transform.html)
 What does Project "On the Fly" do?
 
-[**23)**](https://ubc-library-rc.github.io/map-projections/content/exercise3-project.html)
-Vancouver is in this UTM zone:
-
-- 10S
-- 10N
-- 10W
-- 11N
-- 12S
-- 12W
-
 
 [**24)**](https://ubc-library-rc.github.io/map-projections/content/exercise4-pop-density.html)
 What spatial unit is the **Shape_Area** of the **CAN_albersEA** in? (*hint* check the Spatial Reference Info).
@@ -144,15 +129,7 @@ What spatial unit is the **Shape_Area** of the **CAN_albersEA** in? (*hint* chec
 - Degrees
 
 [**25)**](https://ubc-library-rc.github.io/map-projections/content/exercise4-pop-density.html)
-What is the population density for **CAN_albersEA**? - Round to nearest tenth.
-
-[**26)**](https://ubc-library-rc.github.io/map-projections/content/exercise4-pop-density.html)
-What is the population density for **CAN_webMercator**? - Round to nearest tenth.
-
-[**27)**](https://ubc-library-rc.github.io/map-projections/content/exercise4-pop-density.html)
-Which layer do you think has the most accurate Population Density?
-- CAN_albersEA
-- CAN_webMercator
+What is the population density for CAN_albersEA and how does it compare to CAN_webMercator? Which layer do you think has the most accurate Population Density?
 
 [**28)**](https://ubc-library-rc.github.io/map-projections/content/exercise4-pop-density.html)
 We are multiplying by 1000000 to convert the units to population per square ______.
@@ -163,11 +140,8 @@ In your own words, what does georeferencing do?
 [**30)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Application_Part3_1.html#inspect-the-data)
 How many cholera deaths were recorded in this outbreak? ______ How many locations (points) are in the dataset? ______ What is the highest number of deaths at one location? ______
 
-[**31)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Application_Part3_3.html#central-tendency)
-What do the mean center and directional distribution tell us about a set of points?
-
-[**32)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Application_Part3_3.html#kernel-density)
-Why might Kernel Density might be more useful for identifying the source of a source(s) of a cholera outbreak outbreak than the mean center and directional distribution?
+[**31)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Application_Part3_3.html)
+What do the mean center and directional distribution tell us about a set of points?  Why might Kernel Density be more useful for identifying the source of a source(s) of a cholera outbreak outbreak than the mean center and directional distribution?
 
 [**33)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Application_Part3_4.html)
 Upload your *Kernel_Density.pdf*.
