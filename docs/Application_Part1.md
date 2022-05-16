@@ -77,7 +77,7 @@ Go to the [Introducing ArcGISPro](https://pro.arcgis.com/en/pro-app/latest/get-s
 
 
 # More Tutorial Videos
-ESRI offers quite a few tutorials on ArcGIS Pro.  Feel free to work though them if you have time!  But we're just going to watch the overview videos from four tutorials to learn a bit more about what we can do with ArcGIS Pro.  I've hyperlinked to each tutoral page for your reference and embeded the relevant video below each fideo link.
+ESRI offers quite a few tutorials on ArcGIS Pro.  Feel free to work though them if you have time!  But we're just going to watch the overview videos from four tutorials to learn a bit more about what we can do with ArcGIS Pro.  I've hyperlinked to each tutoral page for your reference and embeded the relevant video below each video link.
 
 ## Explore your data
 This tutorial shows you how you can interact with and explore data layers.  You can find the tutorial instructions [here](https://pro.arcgis.com/en/pro-app/latest/get-started/explore-your-data.htm) or just watch the video below.
