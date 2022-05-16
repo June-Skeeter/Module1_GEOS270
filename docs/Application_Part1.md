@@ -56,7 +56,7 @@ Go to the [Introducing ArcGISPro](https://pro.arcgis.com/en/pro-app/latest/get-s
 
 **File Submission:** Save the layout as a .pdf, name it *Central_Wellington_Layout.pdf*.  You will upload this map to canvas as part of your lab assignment!
 
-* To save your layout reference the image below. 1) CLick Share. 2) Click Layout Export.  3) Specify the output location and name your file.  Its best to use your Lab1_Project workspace so you can easily find this when its time to submit you map.  4) Click Export.
+* To save your layout reference the image below. 1) Click Share. 2) Click Layout Export.  3) Specify the output location and name your file.  Its best to use your Lab1_Project workspace so you can easily find this when its time to submit you map.  4) Click Export.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
