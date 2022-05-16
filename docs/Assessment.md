@@ -79,14 +79,13 @@ This type projection is great for displaying a small area like the city of Vanco
 [**11)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Content_Part2_2.html)
 A map displaying UBC campus would be a ______ scale map.  A map displaying the whole world would be a ______ scale map.
 
-
 # Lab Application Questions 
 
-[**16)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Application_Part1#completing-the-introductory-tutorial.html)
+[**12)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Application_Part1#completing-the-introductory-tutorial.html)
 Upload your *Central_Wellington_Layout.pdf*.
 
 
-[**17)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Application_Part1#more-tutorial-videos.html)
+[**13)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Application_Part1#more-tutorial-videos.html)
 What does the select layer by attributes tool do?
 
 - Find features that meet specific criteria.
@@ -94,11 +93,11 @@ What does the select layer by attributes tool do?
 - Find features based on their spatial relationship to other features.
 
 
-[**18)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Application_Part1#more-tutorial-videos.html)
+[**14)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Application_Part1#more-tutorial-videos.html)
 A ______ in ArcGIS Pro is a way to put a map on a page and map elements like a north arrow, legend, scale bar, and extent indicator.
 
 
-[**19)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Application_Part1#more-tutorial-videos.html)
+[**15)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Application_Part1#more-tutorial-videos.html)
 What tool was used to create the 1500 meter zone around the campsites?
 
 - Buffer
@@ -106,7 +105,7 @@ What tool was used to create the 1500 meter zone around the campsites?
 - Intersect
 - Select by attribute
 
-[**20)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Application_Part1#more-tutorial-videos.html)
+[**16)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Application_Part1#more-tutorial-videos.html)
 What is the first step when creating a new point layer?
 
 - Create a polygon feature class in the project geodatabase
@@ -114,30 +113,30 @@ What is the first step when creating a new point layer?
 - Make sure you are zoomed into your area of interest. 
 - Create point feature class in the project geodatabase
 
-[**21)**](https://ubc-library-rc.github.io/map-projections/content/exercise1-discover-coord.html#metadata)
+[**17)**](https://ubc-library-rc.github.io/map-projections/content/exercise1-discover-coord.html#metadata)
 Metadata is ______ about ______.
 
-[**22)**](https://ubc-library-rc.github.io/map-projections/content/exercise2-transform.html)
+[**18)**](https://ubc-library-rc.github.io/map-projections/content/exercise2-transform.html)
 What does Project "On the Fly" do?
 
 
-[**24)**](https://ubc-library-rc.github.io/map-projections/content/exercise4-pop-density.html)
+[**19)**](https://ubc-library-rc.github.io/map-projections/content/exercise4-pop-density.html)
 What spatial unit is the **Shape_Area** of the **CAN_albersEA** in? (*hint* check the Spatial Reference Info).
 - Meters
 - Kilometers
 - Miles
 - Degrees
 
-[**25)**](https://ubc-library-rc.github.io/map-projections/content/exercise4-pop-density.html)
-What is the population density for CAN_albersEA and how does it compare to CAN_webMercator? Which layer do you think has the most accurate Population Density?
+[**20)**](https://ubc-library-rc.github.io/map-projections/content/exercise4-pop-density.html)
+What is the population density of the CAN_albersEA layer and how does it compare to the CAN_webMercator layer? Which layer do you think has the most accurate Population Density?
 
-[**28)**](https://ubc-library-rc.github.io/map-projections/content/exercise4-pop-density.html)
+[**21)**](https://ubc-library-rc.github.io/map-projections/content/exercise4-pop-density.html)
 We are multiplying by 1000000 to convert the units to population per square ______.
 
-[**29)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Application_Part3_1.html#georeferencing)
+[**22)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Application_Part3_1.html#georeferencing)
 In your own words, what does georeferencing do?
 
-[**30)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Application_Part3_1.html#inspect-the-data)
+[**23)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Application_Part3_1.html#inspect-the-data)
 How many cholera deaths were recorded in this outbreak? ______ How many locations (points) are in the dataset? ______ What is the highest number of deaths at one location? ______
 
 [**31)**](https://june-skeeter.github.io/Module1_GEOS270/docs/Application_Part3_3.html)
