@@ -77,7 +77,7 @@ Now we are going to add a label to Broad St. Pump so the map reader can identify
 # Symbolize by Count
 Lets adjust the symbology so the Deaths feature class points are scaled by the number of deaths at each address.  Follow the steps as outlined and refer to the video below.
 
-**1)**{: .label .label-red } CLick on Deaths and navigate to symbology.  Select graduated symbols from the drop down.
+**1)**{: .label .label-red } Click on Deaths and navigate to symbology.  Select graduated symbols from the drop down.
 * Graduated point symbols are sized differently to convey magnitude/intensity.
 
 **2)**{: .label .label-red } Play around with the symbology options.

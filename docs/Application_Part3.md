@@ -21,7 +21,7 @@ We are going to replicate one of the foundational studies in [Epidemiology](http
 
 
 # Setting up a Project
-If you have an ArcPro windows open from the previous stesp, you can save and close them.  We'll open a new instance of ArcPro for this part.  When ArcPro opens choose the Map under Blank Templates as shown below.  Then create your new project.  I've named mine Lab1_Project so I can easily identify it.  This will be the name of the folder your project is saved in.  Set the location to an appropriate workspace.  I am working on my own computer, and my workspace workspace is "C:\GEOG270\2021_S1\Labs".  This is the location where the project folder will be reside.  If you war working on a lab computer, you should put your project in C:\temp.  It is **very important** to familiarize yourslef with the procedures for [saving your work](https://june-skeeter.github.io/GEOS270W2/docs/Labs.html#saving-your-work) if you are working on a lab computer.
+If you have an ArcPro windows open from the previous step, you can save and close them.  We'll open a new instance of ArcPro for this part.  When ArcPro opens choose the Map under Blank Templates as shown below.  Then create your new project.  I've named mine Lab1_Project so I can easily identify it.  This will be the name of the folder your project is saved in.  Set the location to an appropriate workspace.  I am working on my own computer, and my workspace workspace is "C:\GEOG270\2021_S1\Labs".  This is the location where the project folder will be reside.  If you are working on a lab computer, you should put your project in C:\temp.  It is **very important** to familiarize yourself with the procedures for [saving your work](https://june-skeeter.github.io/GEOS270W2/docs/Labs.html#saving-your-work) if you are working on a lab computer.
 * If you are unfamiliar with the Windows operating system (OS), it might be helpful to take a few moments to learn about the differences between Windows and the OS (Mac, Linux) you are used to working with.  Once you set up a new project, close ArcGIS Pro for now.  
 
 <div style="overflow: hidden;
@@ -40,7 +40,7 @@ If you have an ArcPro windows open from the previous stesp, you can save and clo
 <a href="content/images/New_Project.png" target="_blank">View Image in New Tab</a>
 
 # Download Data
-Lets download the data we need and put it in tye Lab1_Project folder you just created.  Click the download button bellow.  If a pop up appears, choose save, the file will be saved in the downloads folder.
+Lets download the data we need and put it in the Lab1_Project folder you just created.  Click the download button below.  If a pop up appears, choose save, the file will be saved in the downloads folder.
 
 [Download](https://github.com/June-Skeeter/Module1_GEOS270/raw/main/data/CholeraOutbreak_1854.gdb.zip){: .btn .btn-blue }
 

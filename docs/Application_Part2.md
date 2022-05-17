@@ -12,7 +12,7 @@ nav_order: 2
 
 <img src="content/images/understanding-spatial-data-map-projections.jpg" width="400">
 
-This map [projection tutorial](https://ubc-library-rc.github.io/map-projections/content/exercises.html) was created by Maya Daurio at the UBC Research Commons.  The tutorial has four exercises.  Work through each exercise to get a quick overview of how to work with coordiante systems in ArcGIS Pro.
+This map [projection tutorial](https://ubc-library-rc.github.io/map-projections/content/exercises.html) was created by Maya Daurio at the UBC Research Commons.  The tutorial has four exercises.  Work through each exercise to get a quick overview of how to work with coordinate systems in ArcGIS Pro.
 
 **1)** What Coordinate System is my Data in?
 - Learn how to determine the coordinate system of a layer
@@ -24,6 +24,6 @@ This map [projection tutorial](https://ubc-library-rc.github.io/map-projections/
 - Change the coordinate system of your layer
 
 **4)** Calculating Population Density
-- See the material impact impact of 
+- See the material impact of different projections
 
 ---
