@@ -12,7 +12,7 @@ nav_order: 1
 
 This module will cover three general topics and will be delivered over two weeks.  It is intended to give a broad overview of the discipline and get you started with using GIS
 
-### History of GIS (Week 1)
+### History of GIS
 
 * First maps & surveys
 * Exploration and expansion - maps and colonialism
@@ -20,7 +20,7 @@ This module will cover three general topics and will be delivered over two weeks
 * Development of map projections and spatial analysis methods
 * Historical wrongs in GIS
 
-### Coordinate Reference Systems (Week 2)
+### Coordinate Reference Systems
 
 * Steps of Abstraction: 3D Earth >>> 2D Map
 * Local vs. Datums
